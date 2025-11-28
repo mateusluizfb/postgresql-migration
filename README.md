@@ -1,6 +1,6 @@
 ## PostgreSQL Migration
 
-A simple migration script written for psql migration management. It offers the following commands:
+A simple migration script for psql migration management. It offers the following commands:
 
 - migrate help
 - migrate create <name>
